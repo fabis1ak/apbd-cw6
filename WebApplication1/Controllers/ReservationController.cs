@@ -4,7 +4,7 @@ using System;
 using WebApplication1.Data;
 using WebApplication1.Models;
 
-namespace TrainingCenterApi.Controllers;
+namespace WebApplication1.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
